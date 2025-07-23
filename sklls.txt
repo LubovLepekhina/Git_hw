@@ -1,0 +1,5 @@
+JavaScript
+TypeScript
+PlayWright
+API тестирование
+интеграция с CI/CD
